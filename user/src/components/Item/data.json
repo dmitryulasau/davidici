@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "color": "Charcoal Gray Glass",
+    "legs": true,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/GRAY_LEGS_CERAMIC_WHITE_aqubda.png"
+  },
+  {
+    "id": 2,
+    "color": "Charcoal Gray Glass",
+    "legs": true,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/GRAY_LEGS_WASHBOWL_WHITE_r9tzob.png"
+  },
+  {
+    "id": 3,
+    "color": "Charcoal Gray Glass",
+    "legs": false,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529038/ELORA_24/GRAY_NOLEGS_WASHBOWL_WHITE_nxadcz.png"
+  },
+  {
+    "id": 4,
+    "color": "Charcoal Gray Glass",
+    "legs": false,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/GRAY_NOLEGS_CERAMIC_WHITE_f9urfx.png"
+  },
+  {
+    "id": 5,
+    "color": "Pacific Blue Glass",
+    "legs": true,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529037/ELORA_24/BLUE_LEGS_CERAMIC_WHITE_yqe6hb.png"
+  },
+  {
+    "id": 6,
+    "color": "Pacific Blue Glass",
+    "legs": true,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529037/ELORA_24/BLUE_LEGS_WASHBOWL_WHITE_pjkjom.png"
+  },
+  {
+    "id": 7,
+    "color": "Pacific Blue Glass",
+    "legs": false,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529038/ELORA_24/BLUE_NOLEGS_WASHBOWL_WHITE_gissip.png"
+  },
+  {
+    "id": 8,
+    "color": "Pacific Blue Glass",
+    "legs": false,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529037/ELORA_24/BLUE_NOLEGS_CERAMIC_WHITE_xldaj4.png"
+  },
+  {
+    "id": 9,
+    "color": "Sand / Thyme Green Glass",
+    "legs": true,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529041/ELORA_24/THYME_LEGS_CERAMIC_WHITE_li0gkr.png"
+  },
+  {
+    "id": 10,
+    "color": "Sand / Thyme Green Glass",
+    "legs": true,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529040/ELORA_24/THYME_LEGS_WASHBOWL_WHITE_aaj5mf.png"
+  },
+  {
+    "id": 11,
+    "color": "Sand / Thyme Green Glass",
+    "legs": false,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529037/ELORA_24/THYME_NOLEGS_WASHBOWL_WHITE_iujsfh.png"
+  },
+  {
+    "id": 12,
+    "color": "Sand / Thyme Green Glass",
+    "legs": false,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529041/ELORA_24/THYME_NOLEGS_CERAMIC_WHITE_osrefz.png"
+  },
+  {
+    "id": 13,
+    "color": "Sand / White Glass",
+    "legs": true,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/SAND_LEGS_CERAMIC_WHITE_jj1ggz.png"
+  },
+  {
+    "id": 14,
+    "color": "Sand / White Glass",
+    "legs": true,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/SAND_LEGS_WASHBOWL_WHITE_qmlz7v.png"
+  },
+  {
+    "id": 15,
+    "color": "Sand / White Glass",
+    "legs": false,
+    "washbasin": "bowl",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529039/ELORA_24/SAND_NOLEGS_WASHBOWL_WHITE_zijgs8.png"
+  },
+  {
+    "id": 16,
+    "color": "Sand / White Glass",
+    "legs": false,
+    "washbasin": "ceramic",
+    "finish": "white",
+    "image": "https://res.cloudinary.com/dulasau/image/upload/v1694529038/ELORA_24/SAND_NOLEGS_CERAMIC_WHITE_b0gyrt.png"
+  }
+]
